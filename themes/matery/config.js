@@ -20,7 +20,7 @@ const CONFIG = {
   MATERY_MENU_ARCHIVE: false, // 显示归档
   MATERY_MENU_SEARCH: true, // 显示搜索
 
-  MATERY_POST_LIST_COVER: true, // 文章封面
+  MATERY_POST_LIST_COVER: false, // 文章封面
   MATERY_POST_LIST_SUMMARY: true, // 文章摘要
   MATERY_POST_LIST_PREVIEW: true, // 读取文章预览
 
