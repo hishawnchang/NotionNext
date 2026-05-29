@@ -13,7 +13,7 @@ export default function PostHero({ post, siteInfo }) {
   return (
     <div
       id='header'
-      className='flex h-96 justify-center align-middle items-center w-full relative bg-black'>
+      className='flex h-96 justify-center align-middle items-center w-full relative bg-blue-dark'>
       <div
         data-wow-delay='.1s'
         className='wow fadeInUp z-10 leading-snug font-bold xs:text-4xl sm:text-4xl md:text-5xl md:leading-snug text-4xl shadow-text-md flex justify-center text-center text-white'>
